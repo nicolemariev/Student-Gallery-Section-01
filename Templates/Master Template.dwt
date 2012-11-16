@@ -7,9 +7,20 @@
 		<!-- TemplateEndEditable -->
 		<!-- TemplateBeginEditable name="head" -->
 		<!-- TemplateEndEditable -->
-		<link href="../Images/css/styles.css" rel="stylesheet" type="text/css" />
+		<link href="../css/styles.css" rel="stylesheet" type="text/css" />
 	</head>
 
 	<body>
+	<p>[Put Manhattan College Logo here] </p>
+	<table>
+	  <tr>
+	    <td><p><a href="../index.html">Home Page</a></p></td>
+	    <td><a href="../about-the-course.html">About This Course</a></td>
+	    <td><a href="../class-directory.html">Class Directory</a></td>
+	    <td><a href="../contact-us.html">Contact Us</a></td>
+	    <td><a href="../project-guidelines.html">Project Guidelines</a></td>
+      </tr>
+    </table>
+	<!-- TemplateBeginEditable name="Main Content Area" --><!-- TemplateEndEditable -->
 	</body>
 </html>
